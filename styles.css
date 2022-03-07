@@ -1,0 +1,22 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+
+}
+
+.purple {
+    background-color: #A020F0;
+}
+
+.blue {
+    background-color: #0000FF;
+}
+
+.green {
+    background-color: #00FF00;
+}
+
+.yellow {
+    background-color: #FFFF00;
+}
